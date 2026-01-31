@@ -1,4 +1,4 @@
-basic.showString("Hello!")
+basic.showString("Ochobot")
 basic.forever(function () {
 	
 })
